@@ -33,7 +33,7 @@ The project contains the following elements:
 
 1. *Clone the Repository*:
    bash
-   github https:(https://github.com/sathiyaseelan5/Profit-And-Loss-Dashboard-/edit/main/README.md)
+   github https:(https://github.com/sathiyaseelan5/Profit-And-Loss-Dashboard-)
    
    
 2. *Open Power BI Desktop*: 
